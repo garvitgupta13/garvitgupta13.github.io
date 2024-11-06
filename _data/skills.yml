@@ -1,0 +1,33 @@
+languages:
+  - item: Python
+  - item: JavaScript (ES6)
+  - item: TypeScript
+  - item: SQL
+  - item: C++
+  - item: HTML
+  - item: CSS/Sass
+
+frameworks:
+  - item: Django
+  - item: Node.js
+  - item: Flask
+  - item: FastAPI
+  - item: Vue
+  - item: React
+  - item: Express
+  - item: Next
+
+programming:
+  - item: Data Structures
+  - item: Algorithms
+  - item: OOPs
+  - item: Machine Learning
+  - item: Deep Learning
+  - item: Rest API
+
+tools:
+  - item: Bash
+  - item: Git & Github
+  - item: Postman
+  - item: MongoDB
+  - item: AWS

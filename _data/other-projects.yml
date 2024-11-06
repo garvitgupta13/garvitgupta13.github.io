@@ -1,0 +1,47 @@
+- name: Banking Dashboard
+  url: https://github.com/garvitgupta13/BankingDashboard
+  code: https://github.com/garvitgupta13/BankingDashboard
+  description: Developed a financial management tool that allows users to track transactions, view detailed statistics, and set bill reminders. Enhanced with goal tracking and loan prediction functionalities, this tool aids users in optimizing their financial planning and achieving targets efficiently. Awarded 2nd runner up at the Reign Hackathon. <a class="underline-link" href="https://drive.google.com/file/d/1yIomv4sSR0-ARDnhuu69WDTeXHXAJGTd/view?usp=sharing" target="_blank">View certificate</a>.
+  used:
+    - thing: JavaScript
+    - thing: React
+    - thing: React Router
+    - thing: Axios
+    - thing: Firebase
+
+- name: Pizzeria
+  url: https://github.com/garvitgupta13/pizzeria
+  code: https://github.com/garvitgupta13/pizzeria
+  description: This project involved integrating a message queue into a Django application to enhance asynchronous task processing. For a detailed exploration of the concepts and my implementation process, read my article <a class="underline-link" href="https://garvitgupta13.medium.com/understanding-message-queue-using-python-rq-3f1c5ae23917">here</a>.
+  used:
+    - thing: Django
+    - thing: Python
+    - thing: Redis Queue
+    - thing: Message Queue
+
+- name: News Summarizer
+  url: https://github.com/garvitgupta13/News-Summarizer
+  code: https://github.com/garvitgupta13/News-Summarizer
+  description: Implemented advanced machine learning techniques, specifically Latent Semantic Analysis (LSA) and truncated Singular Value Decomposition (SVD), to efficiently distill and extract concise, meaningful summaries from extensive news articles. This approach enhances the accessibility and digestibility of complex information, making it easier for users to quickly grasp essential news highlights.
+  used:
+    - thing: Python
+    - thing: NLP
+
+- name: Forest Fire Detection
+  url: https://github.com/garvitgupta13/ForestFire-Detection
+  code: https://github.com/garvitgupta13/ForestFire-Detection
+  description: In this project, we processed images of forest fires to segment and identify the areas affected by fire, enhancing the precision of fire monitoring and management.
+  used:
+    - thing: Python
+    - thing: OpenCV
+    - thing: Image Processing
+
+- name: Plasma Bank
+  url: https://github.com/garvitgupta13/COVID-PlasmaBank
+  code: https://github.com/garvitgupta13/COVID-PlasmaBank
+  description: A web application for managing plasma banks, facilitating patient registration and plasma requests, volunteer donations, and admin oversight for verifications and allocations.
+  used:
+    - thing: PHP
+    - thing: MySQL
+    - thing: HTML
+    - thing: CSS
