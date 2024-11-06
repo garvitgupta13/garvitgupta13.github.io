@@ -21,8 +21,7 @@ programming:
   - item: Data Structures
   - item: Algorithms
   - item: OOPs
-  - item: Machine Learning
-  - item: Deep Learning
+  - item: System Design
   - item: Rest API
 
 tools:

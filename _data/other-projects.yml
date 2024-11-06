@@ -22,7 +22,7 @@
 - name: News Summarizer
   url: https://github.com/garvitgupta13/News-Summarizer
   code: https://github.com/garvitgupta13/News-Summarizer
-  description: Implemented advanced machine learning techniques, specifically Latent Semantic Analysis (LSA) and truncated Singular Value Decomposition (SVD), to efficiently distill and extract concise, meaningful summaries from extensive news articles. This approach enhances the accessibility and digestibility of complex information, making it easier for users to quickly grasp essential news highlights.
+  description: Implemented advanced machine learning techniques, specifically Latent Semantic Analysis (LSA) and truncated Singular Value Decomposition (SVD), to efficiently distill and extract concise, meaningful summaries from extensive news articles.
   used:
     - thing: Python
     - thing: NLP
